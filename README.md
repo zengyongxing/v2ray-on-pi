@@ -1,2 +1,25 @@
 # v2ray-on-pi
-Guide to Install V2Ray on Raspberry Pi
+本仓库包含在Raspberry Pi 4B上安装V2Ray最新版本的说明和对应的工具。
+
+## 方案描述
+
+TODO：添加系统方案，并加上版本新
+
+
+
+## 原理
+
+见
+
+## 手动安装的详细步骤
+
+见
+
+## 参考文档
+
+
+
+
+
+
+
